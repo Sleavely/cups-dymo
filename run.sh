@@ -3,5 +3,5 @@ docker run -d \
   --privileged \
   -v //var/run/dbus:/var/run/dbus \
   -v //dev/bus/usb:/dev/bus/usb \
-  --name dymo-cups \
-  sleavely/dymo-cups
+  --name cups-dymo \
+  sleavely/cups-dymo
