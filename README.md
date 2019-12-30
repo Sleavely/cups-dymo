@@ -3,7 +3,7 @@
 
 A Docker image for running a Node server and CUPS with DYMO drivers installed. It has been successfully tested on a DYMO LabelWriter 450 Turbo.
 
-[Docker Hub](https://hub.docker.com/r/sleavely/cups-dymo)
+[Docker Hub](https://hub.docker.com/r/sleavely/cups-dymo) | [Github](https://github.com/Sleavely/cups-dymo)
 
 ## Running
 
