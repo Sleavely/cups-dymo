@@ -1,0 +1,14 @@
+{
+  "name": "cups-dymo",
+  "version": "1.0.0",
+  "description": "printy boi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joakim Hedlund <contact@joakimhedlund.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dymojs": "^1.1.1"
+  }
+}
