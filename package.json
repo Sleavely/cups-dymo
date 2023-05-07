@@ -9,6 +9,6 @@
   "author": "Joakim Hedlund <contact@joakimhedlund.com>",
   "license": "UNLICENSED",
   "dependencies": {
-    "dymojs": "^1.1.1"
+    "dymojs": "^1.2.0"
   }
 }
